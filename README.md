@@ -21,6 +21,7 @@ Maintenance – It is cannot be avoided fact that a system will need maintenance
 ### 2. V-Model
 
 The V-model, or Validation and Verification model, expands on the Waterfall model with the addition of early test planning. Instead of moving down linearly through the software development stages, the V-Model moves down until the coding phase when it pivots and begins to ascend upward to form a “V” shape.
+![image](https://github.com/Tanvi-Jain01/Design-Software-Eng/assets/123053700/3d0e201a-fd47-4329-a26e-33cfd67ab785)
 
 **Advantages and Disadvantages**
 
@@ -111,6 +112,7 @@ It has poor documentation because of continuously changing customer requirements
 ![image](https://github.com/Tanvi-Jain01/Design-Software-Eng/assets/123053700/82039d4b-c6d8-43fd-aceb-1ef8a43f41f3)
 
 **Task regions can be described as-**
+
 • Customer communication: - it is suggested to establish customer communication. Establishes an understanding of the system or product objectives namely- performance, functionality etc and investigate constraints namely-cost, schedule, support etc.
 
 • Planning: - All planning activities are carried out in order to define resources timeline and other project related activities. Product’s objective, alternatives and constraints are planned and understood here.
