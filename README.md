@@ -76,7 +76,8 @@ While developing the software systems, it is often needed to make modifications 
 
 • From the quick design a prototype is prepared. Customer or user evaluates the prototype in order to refine the requirements.This prototype is tuned to satisfy customer requirements which is changing continuously. If the customer is not satisfied then gives the feedback and fixes to develop again.
 
-![image](https://github.com/Tanvi-Jain01/Design-Software-Eng/assets/123053700/162800b7-68fe-4e43-8c2d-cb0932d0f454)
+![image](https://github.com/Tanvi-Jain01/Design-Software-Eng/assets/123053700/05b21213-d62c-4efb-a217-9254dda60cfb)
+
 
 **Advantages:**
 
