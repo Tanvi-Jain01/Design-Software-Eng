@@ -1,6 +1,6 @@
 ## Software and Design Engineering
 
-### Linear Sequential Model / Waterfall Model:
+### 1. Linear Sequential Model / Waterfall Model:
 linear sequential model or be known as waterfall model is one of the approaches in Software Development Process Models that software engineer used to defined and design which are used during the development process of software. It clearly states that all these phases are cascaded to each other so that second phase is started as and when defined set of goals are achieved for first phase and it is signed off.
 
 ![image](https://github.com/Tanvi-Jain01/Design-Software-Eng/assets/123053700/760916d9-e414-432d-a61a-f82eaca3222c)
@@ -34,7 +34,7 @@ The V-model, or Validation and Verification model, expands on the Waterfall mode
 •	Therefore, this model is best for short projects with fixed, clearly defined, documented requirements, but it is not ideal for long, complex, or ongoing projects.
 
 
-## Incremental model:
+## 3. Incremental Model:
 In an Iterative Incremental model, initially, a partial implementation of a total system is constructed so that it will be in a deliverable state. Increased functionality is added. Defects, if any, from the prior delivery are fixed and the working product is delivered. The process is repeated until the entire product development is completed. The repetitions of these processes are called iterations. At the end of every iteration, a product increment is delivered.
 
 ![image](https://github.com/Tanvi-Jain01/Design-Software-Eng/assets/123053700/f35fa285-e72f-452c-9c66-e5196e0ccb13)
@@ -64,7 +64,7 @@ In an Iterative Incremental model, initially, a partial implementation of a tota
 **Examples:** M.S word, Excel
 
 
-## ITERATIVE MODELS
+## 4. Iterative Models
 
 While developing the software systems, it is often needed to make modifications in earlier development phases or task sets. If the development process is linear then the end product will be unrealistic. In such cases, the iterative approach needs to be adopted.
 
@@ -100,7 +100,7 @@ While developing the software systems, it is often needed to make modifications 
 It has poor documentation because of continuously changing customer requirements.
 
 
-### Spiral model
+### Spiral Model
 • The basic problem with the process model is they can not handle the uncertainty. So the project fails because of the neglected project risk.
 
 • Spiral model is combination of three approaches- risk reducing, iterative incremental approach.
@@ -149,7 +149,7 @@ It has poor documentation because of continuously changing customer requirements
 
 
 
-### Rapid Application Development (RAD) MODEL
+### Rapid Application Development (RAD) Model
 In this model, with limited functionality the basic software product is created for user’s understanding.
 
 • The RAD Model is a type of incremental process model in which there is extremely short development cycle.
