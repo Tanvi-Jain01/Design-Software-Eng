@@ -68,7 +68,7 @@ In an Iterative Incremental model, initially, a partial implementation of a tota
 
 While developing the software systems, it is often needed to make modifications in earlier development phases or task sets. If the development process is linear then the end product will be unrealistic. In such cases, the iterative approach needs to be adopted.
 
-**Prototype model**
+### -Prototype model
 
 • In prototype model initially, the requirement gathering is done.Developers and customer define all over objectives and identifies areas needing more requirement gathering.
 
@@ -100,7 +100,7 @@ While developing the software systems, it is often needed to make modifications 
 It has poor documentation because of continuously changing customer requirements.
 
 
-## Spiral Model
+## -Spiral Model
 • The basic problem with the process model is they can not handle the uncertainty. So the project fails because of the neglected project risk.
 
 • Spiral model is combination of three approaches- risk reducing, iterative incremental approach.
