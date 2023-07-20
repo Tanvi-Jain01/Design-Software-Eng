@@ -100,7 +100,7 @@ While developing the software systems, it is often needed to make modifications 
 It has poor documentation because of continuously changing customer requirements.
 
 
-### Spiral Model
+## Spiral Model
 • The basic problem with the process model is they can not handle the uncertainty. So the project fails because of the neglected project risk.
 
 • Spiral model is combination of three approaches- risk reducing, iterative incremental approach.
@@ -149,7 +149,7 @@ It has poor documentation because of continuously changing customer requirements
 
 
 
-### Rapid Application Development (RAD) Model
+### 5. Rapid Application Development (RAD) Model
 In this model, with limited functionality the basic software product is created for user’s understanding.
 
 • The RAD Model is a type of incremental process model in which there is extremely short development cycle.
@@ -209,4 +209,6 @@ Finally the Deployment of all the software components is carried out.
 • Difficult to adopt new technologies
 
 • High cost
+
+
 
